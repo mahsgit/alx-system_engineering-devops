@@ -1,2 +1,2 @@
 #!/bin/bash
-chmop school hello
+chgrp school hello
