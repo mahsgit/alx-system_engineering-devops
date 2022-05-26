@@ -1,1 +1,1 @@
-Display current directory contents in a long format
+1 501 20 18 1
